@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @pc24carlos
+- 👋 Carlos Pardinho
+
+- gestão de pessoas
 - ultra...
 <!---
 pc24carlos/pc24carlos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
